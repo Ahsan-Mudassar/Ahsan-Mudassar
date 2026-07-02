@@ -8,7 +8,6 @@ I am passionate about building clean, user-friendly web interfaces. Currently de
 
 ## About Me
 
-- I am currently working on the "Ecommerce wbsite" using javascripte and es6 method.
 - I am currently learning REactjs to buld the components and modern UI/UX design using Tailwindcss.
 - I am looking to collaborate with my frontend skills and woek together.
 - I am passinate to learning my skills HTML, CSS, JavaScript, React fundamentals
