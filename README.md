@@ -64,7 +64,7 @@ I'm a passionate **Full Stack Web Developer** who started my journey building cl
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-|  [**DeviceZone**](https://device-zone-e-commerce-website.vercel.app) | A modern e-commerce landing page/platform featuring a clean product showcase UI and responsive design | `React` `Tailwind CSS` | [Live Demo](https://device-zone-e-commerce-website.vercel.app) |
+|  [**DeviceZone**](https://github.com/Ahsan-Mudassar/DeviceZone-E-commerce-website) | A modern e-commerce landing page/platform featuring a clean product showcase UI and responsive design | `React` `Tailwind CSS` | [Live Demo](https://device-zone-e-commerce-website.vercel.app) |
 |  [**TextUtils**](https://github.com/Ahsan-Mudassar/Textutils) | A React-based text utility app for performing online text conversions and transformations | `React` `Bootstrap` | [Live Demo](https://txtutills.netlify.app) |
 |  [**Blog App**](https://github.com/Ahsan-Mudassar/Blog-App) | A full-featured blog application using Appwrite for backend content and data management | `React` `Appwrite` | [Live Demo](https://blog-app-tau-pink.vercel.app) |
 |  [**Weather App**](https://github.com/Ahsan-Mudassar/Weather-App) | A clean weather app fetching real-time data from the OpenWeatherMap API | `JavaScript` `API` | [Live Demo](https://weather-app-steel-two-17.vercel.app) |
