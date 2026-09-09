@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi there, I'm Ahsan Mudassar 👋
+# Hi, I'm Ahsan Mudassar 👋
 
-### Full Stack Web Developer | Frontend Specialist | Backend in Progress
+### Full Stack Web Developer (MERN) | React.js Specialist | Node.js · Express.js · MongoDB
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0DA&center=true&vCenter=true&width=600&lines=Building+clean%2C+user-friendly+web+interfaces;Now+learning+Node.js+%2B+Express+%2B+MongoDB;Aspiring+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0DA&center=true&vCenter=true&width=600&lines=Building+full-stack+MERN+applications;React.js+%2B+Node.js+%2B+Express+%2B+MongoDB;Open+to+Frontend+%2F+Full+Stack+Internships" alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,12 +14,12 @@
 
 ## About Me
 
-I'm a passionate **Full Stack Web Developer** who started my journey building clean, responsive frontend interfaces — and I'm now actively expanding into backend development to become a well-rounded full stack engineer.
+I'm a self-taught **Full Stack Web Developer** specializing in **React.js**, actively building production-ready applications with the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
--  Strong foundation in **HTML5, CSS3, JavaScript (ES6+), React.js,** and **Tailwind CSS**
--  Currently deepening my skills in **Node.js, Express.js, MongoDB,** and **Mongoose**
--  Focused on writing clean, maintainable code and understanding how frontend and backend systems connect
--  Open to collaborating on frontend or full-stack projects
+-  Strong foundation in **HTML5, CSS3, JavaScript (ES6+), React.js, Redux,** and **Tailwind CSS**
+-  Backend development with **Node.js, Express.js, MongoDB,** and **Mongoose** — including JWT authentication, REST APIs, and cloud image storage
+-  I build and deploy real applications end-to-end: UI, API integration, database design, and deployment
+-  Open to **Frontend Development internships** and full-stack collaboration
 -  Reach me at **ahsanmudassar441@gmail.com**
 
 ---
@@ -31,11 +31,13 @@ I'm a passionate **Full Stack Web Developer** who started my journey building cl
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend (Learning) 
+### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,28 +51,28 @@ I'm a passionate **Full Stack Web Developer** who started my journey building cl
 
 ---
 
-## 📚 Currently Learning
-
-> I'm actively expanding into backend development to become a complete Full Stack Developer.
-
-- 🔹 **Node.js** — server-side JavaScript runtime
-- 🔹 **Express.js** — building REST APIs
-- 🔹 **MongoDB** — NoSQL database fundamentals
-- 🔹 **Mongoose** — schema modeling and data validation
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Links |
 |---|---|---|---|
-|  [**DeviceZone**](https://github.com/Ahsan-Mudassar/DeviceZone-E-commerce-website) | A modern e-commerce landing page/platform featuring a clean product showcase UI and responsive design | `React` `Tailwind CSS` | [Live Demo](https://device-zone-e-commerce-website.vercel.app) |
-|  [**TextUtils**](https://github.com/Ahsan-Mudassar/Textutils) | A React-based text utility app for performing online text conversions and transformations | `React` `Bootstrap` | [Live Demo](https://txtutills.netlify.app) |
-|  [**Blog App**](https://github.com/Ahsan-Mudassar/Blog-App) | A full-featured blog application using Appwrite for backend content and data management | `React` `Appwrite` | [Live Demo](https://blog-app-tau-pink.vercel.app) |
-|  [**Weather App**](https://github.com/Ahsan-Mudassar/Weather-App) | A clean weather app fetching real-time data from the OpenWeatherMap API | `JavaScript` `API` | [Live Demo](https://weather-app-steel-two-17.vercel.app) |
+| **[Marginalia](https://margilina-blogapp.vercel.app/)** | A full-stack MERN blog platform with JWT authentication (access + refresh tokens), full CRUD for posts, Cloudinary image uploads, and OTP-based password reset | `React` `Express` `MongoDB` `Mongoose` `JWT` | [Live Demo](https://margilina-blogapp.vercel.app/) |
+| **[DeviceZone](https://github.com/Ahsan-Mudassar/DeviceZone-E-commerce-website)** | A modern e-commerce landing page with a clean product showcase UI and fully responsive design | `React` `Tailwind CSS` | [Live Demo](https://device-zone-e-commerce-website.vercel.app) |
+| **[TextUtils](https://github.com/Ahsan-Mudassar/Textutils)** | A React-based text utility app for online text conversions and transformations | `React` `Bootstrap` | [Live Demo](https://txtutills.netlify.app) |
+| **[Weather App](https://github.com/Ahsan-Mudassar/Weather-App)** | A clean weather app fetching real-time data from the OpenWeatherMap API | `JavaScript` `API` | [Live Demo](https://weather-app-steel-two-17.vercel.app) |
 
+---
 
-## 🌐 Let's Connect
+## Currently Learning
+
+> Deepening my backend skills to become a well-rounded Full Stack MERN Developer.
+
+- 🔹 Advanced **Node.js** & **Express.js** — REST API design patterns
+- 🔹 **MongoDB** schema design & aggregation
+- 🔹 Authentication & authorization best practices (JWT, refresh tokens)
+
+---
+
+## Let's Connect
 
 <div align="center">
 
@@ -84,6 +86,6 @@ I'm a passionate **Full Stack Web Developer** who started my journey building cl
 
 <div align="center">
 
-⭐️ Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate.
+⭐️ Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.
 
 </div>
