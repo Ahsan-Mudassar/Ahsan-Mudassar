@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a self-taught **Full Stack Web Developer** specializing in **React.js**, actively building production-ready applications with the **MERN stack** (MongoDB, Express.js, React, Node.js).
+I'm a **Full Stack Web Developer** specializing in **React.js**, actively building production-ready applications with the **MERN stack** (MongoDB, Express.js, React, Node.js).
 
 -  Strong foundation in **HTML5, CSS3, JavaScript (ES6+), React.js, Redux,** and **Tailwind CSS**
 -  Backend development with **Node.js, Express.js, MongoDB,** and **Mongoose** — including JWT authentication, REST APIs, and cloud image storage
