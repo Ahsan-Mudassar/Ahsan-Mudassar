@@ -62,6 +62,16 @@ I'm a **Full Stack Web Developer** specializing in **React.js**, actively buildi
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Mudassar&theme=default&show_icons=true&hide_border=true&count_private=true)
+
+![GitHub Stats](https://streak-stats.demolab.com?user=Ahsan-Mudassar&theme=default&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Mudassar&theme=default&show_icons=true&hide_border=true&layout=compact)
+
+---
+
+---
+
 ## Currently Learning
 
 > Deepening my backend skills to become a well-rounded Full Stack MERN Developer.
