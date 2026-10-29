@@ -1,12 +1,15 @@
 <div align="center">
 
-# Hi, I'm Ahsan Mudassar 👋
+# Ahsan Mudassar
 
-### Full Stack Web Developer (MERN) | React.js Specialist | Node.js · Express.js · MongoDB
+### Full Stack Developer (MERN) | Open to Internship Roles
+**React · Node.js · Express · MongoDB · PostgreSQL · REST APIs · Authentication**
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EA0DA&center=true&vCenter=true&width=600&lines=Building+full-stack+MERN+applications;React.js+%2B+Node.js+%2B+Express+%2B+MongoDB;Open+to+Frontend+%2F+Full+Stack+Internships" alt="Typing SVG" />
-</a>
+*Built and deployed 3 full-stack projects. Ready to join a team and ship production code.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-mu-six-48.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-mudassar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanmudassar441@gmail.com)
 
 </div>
 
@@ -14,88 +17,75 @@
 
 ## About Me
 
-I'm a **Full Stack Web Developer** specializing in **React.js**, actively building production-ready applications with the **MERN stack** (MongoDB, Express.js, React, Node.js).
+I'm a full stack developer from Lahore, Pakistan. I've built and deployed three complete web applications, covering the React frontend, the REST API, the database and authentication. My background is in frontend, so I care about clean, responsive interfaces. I've since built the backend side too: secure login systems, validated APIs, image uploads and email notifications.
 
--  Strong foundation in **HTML5, CSS3, JavaScript (ES6+), React.js, Redux,** and **Tailwind CSS**
--  Backend development with **Node.js, Express.js, MongoDB,** and **Mongoose** — including JWT authentication, REST APIs, and cloud image storage
--  I build and deploy real applications end-to-end: UI, API integration, database design, and deployment
--  Open to **Frontend Development internships** and full-stack collaboration
--  Reach me at **ahsanmudassar441@gmail.com**
+Now I want to move from personal projects to a real team. I'm looking for an internship where I can work on production applications, learn from code reviews and contribute to real features.
+
+**What I bring to a team**
+- **End-to-end ownership:** I can build a feature from the database schema, to the API, to the UI
+- **Security basics done properly:** JWT with refresh tokens, httpOnly cookies, password hashing, protected routes
+- **Clean, reliable APIs:** input validation, centralized error handling, rate limiting, and Postman-tested endpoints
+- **Team workflow:** Git branches and pull requests, plus clear READMEs and API documentation
+- **Fast learner:** I picked up PostgreSQL and session-based auth on a 72-hour full-stack assessment
+
+**Open to:** MERN / Full Stack / Backend internships (remote or on-site in Lahore)
 
 ---
 
 ## Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+| Area | Technologies |
+|---|---|
+| **Frontend** | React.js, Redux Toolkit, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3 |
+| **Backend** | Node.js, Express.js, REST API design, JWT, Passport.js, bcrypt, Zod / Joi |
+| **Database** | MongoDB (Mongoose), PostgreSQL (Sequelize) |
+| **Tools** | Git, GitHub, Postman, Cloudinary, Figma, Vercel |
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| **[Marginalia](https://margilina-blogapp.vercel.app/)** | A full-stack MERN blog platform with JWT authentication (access + refresh tokens), full CRUD for posts, Cloudinary image uploads, and OTP-based password reset | `React` `Express` `MongoDB` `Mongoose` `JWT` | [Live Demo](https://margilina-blogapp.vercel.app/) |
-| **[DeviceZone](https://github.com/Ahsan-Mudassar/DeviceZone-E-commerce-website)** | A modern e-commerce landing page with a clean product showcase UI and fully responsive design | `React` `Tailwind CSS` | [Live Demo](https://device-zone-e-commerce-website.vercel.app) |
-| **[TextUtils](https://github.com/Ahsan-Mudassar/Textutils)** | A React-based text utility app for online text conversions and transformations | `React` `Bootstrap` | [Live Demo](https://txtutills.netlify.app) |
-| **[Weather App](https://github.com/Ahsan-Mudassar/Weather-App)** | A clean weather app fetching real-time data from the OpenWeatherMap API | `JavaScript` `API` | [Live Demo](https://weather-app-steel-two-17.vercel.app) |
+### 1. Team Task Manager
+A full-stack task management app for teams, built as an internship assessment.
+
+- **What I built:** authentication, team and task management, and a responsive dashboard UI
+- **Backend:** Node.js, Express, PostgreSQL with Sequelize, session auth with Passport.js, validated routes
+- **Frontend:** React, Vite, Tailwind CSS
+- **Workflow:** feature branches and pull requests on GitHub
+- **Stack:** `React` `Vite` `Tailwind` `Node.js` `Express` `PostgreSQL` `Passport.js`
+- [Live Demo](https://team-task-manager-xi-pink.vercel.app) · [Source Code](https://github.com/Ahsan-Mudassar/team-task-manager)
+
+### 2. Marginalia: Full-Stack Blog Platform
+A MERN blogging platform with secure authentication and complete post management.
+
+- JWT auth with access and refresh tokens (refresh token in an httpOnly cookie)
+- Full CRUD for blog posts with owner-only edit and delete
+- Cloudinary image uploads, OTP-based password reset via email, change-password flow
+- Protected routes, axios interceptors with automatic token refresh, and a user dashboard
+- **Stack:** `React` `Tailwind` `Express` `MongoDB` `Mongoose` `JWT` `Cloudinary` `Nodemailer`
+- [Live Demo](https://margilina-blogapp.vercel.app/) · [Source Code](https://github.com/Ahsan-Mudassar/Marginalia-Blogapp)
+
+### 3. Lumira: Full-Stack E-Commerce Store
+A skincare brand store with a production-style REST API and an admin dashboard.
+
+- Product and category catalog with Cloudinary image management
+- Guest checkout with MongoDB transactions, atomic stock updates and order-number generation
+- Order confirmation emails to the store owner (Resend)
+- Admin-only auth (JWT in an httpOnly cookie), order management, and dashboard stats (sales, trending products, unsold products)
+- Zod validation, rate limiting, centralized error handling, and full API documentation
+- **Stack:** `React` `Redux Toolkit` `Tailwind` `Express 5` `MongoDB` `Mongoose` `Zod` `Cloudinary` `Resend`
+- [Live Demo](https://lumira-skincare-frontend.vercel.app) · [Source Code](https://github.com/Ahsan-Mudassar/Lumira-skincare-frontend) · [API Docs](https://github.com/Ahsan-Mudassar/Lumira-skincare-backend)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsan-Mudassar&theme=default&show_icons=true&hide_border=true&count_private=true)
+## GitHub Activity
 
-![GitHub Stats](https://streak-stats.demolab.com?user=Ahsan-Mudassar&theme=default&hide_border=true)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsan-Mudassar&theme=default&show_icons=true&hide_border=true&layout=compact)
-
----
-
----
-
-## Currently Learning
-
-> Deepening my backend skills to become a well-rounded Full Stack MERN Developer.
-
-- 🔹 Advanced **Node.js** & **Express.js** — REST API design patterns
-- 🔹 **MongoDB** schema design & aggregation
-- 🔹 Authentication & authorization best practices (JWT, refresh tokens)
+![GitHub Stats](https://camo.githubusercontent.com/c6a6234ac5039729894243dbe02a283fad6e559808da673712e3118622377e7f/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d416873616e2d4d75646173736172267468656d653d64656661756c7426686964655f626f726465723d74727565)
 
 ---
 
 ## Let's Connect
 
-<div align="center">
+I'm actively looking for a **MERN Stack / Full Stack / Backend internship**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-mudassar-00b984394)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-mu-six-48.vercel.app)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahsanmudassar441@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-⭐️ Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate.
-
-</div>
+📧 ahsanmudassar441@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/ahsan-mudassar) · 🌐 [Portfolio](https://my-portfolio-mu-six-48.vercel.app)
