@@ -3,9 +3,7 @@
 # Ahsan Mudassar
 
 ### Full Stack Developer (MERN) | Open to Internship Roles
-**React · Node.js · Express · MongoDB · PostgreSQL · REST APIs · Authentication**
-
-*Built and deployed 3 full-stack projects. Ready to join a team and ship production code.*
+**React · Node.js · Express · MongoDB · REST APIs · Authentication** · *Learning PostgreSQL*
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-mu-six-48.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahsan-mudassar)
@@ -26,7 +24,7 @@ Now I want to move from personal projects to a real team. I'm looking for an int
 - **Security basics done properly:** JWT with refresh tokens, httpOnly cookies, password hashing, protected routes
 - **Clean, reliable APIs:** input validation, centralized error handling, rate limiting, and Postman-tested endpoints
 - **Team workflow:** Git branches and pull requests, plus clear READMEs and API documentation
-- **Fast learner:** I picked up PostgreSQL and session-based auth on a 72-hour full-stack assessment
+- **Fast learner:** I'm now learning PostgreSQL and built a full-stack Team Task Manager with it in a 72-hour assessment
 
 **Open to:** MERN / Full Stack / Backend internships (remote or on-site in Lahore)
 
@@ -38,7 +36,7 @@ Now I want to move from personal projects to a real team. I'm looking for an int
 |---|---|
 | **Frontend** | React.js, Redux Toolkit, JavaScript (ES6+), Tailwind CSS, HTML5, CSS3 |
 | **Backend** | Node.js, Express.js, REST API design, JWT, Passport.js, bcrypt, Zod / Joi |
-| **Database** | MongoDB (Mongoose), PostgreSQL (Sequelize) |
+| **Database** | MongoDB (Mongoose) · Learning: PostgreSQL (Sequelize) |
 | **Tools** | Git, GitHub, Postman, Cloudinary, Figma, Vercel |
 
 ---
@@ -49,7 +47,7 @@ Now I want to move from personal projects to a real team. I'm looking for an int
 A full-stack task management app for teams, built as an internship assessment.
 
 - **What I built:** authentication, team and task management, and a responsive dashboard UI
-- **Backend:** Node.js, Express, PostgreSQL with Sequelize, session auth with Passport.js, validated routes
+- **Backend:** Node.js, Express, PostgreSQL (Sequelize), session auth with Passport.js
 - **Frontend:** React, Vite, Tailwind CSS
 - **Workflow:** feature branches and pull requests on GitHub
 - **Stack:** `React` `Vite` `Tailwind` `Node.js` `Express` `PostgreSQL` `Passport.js`
