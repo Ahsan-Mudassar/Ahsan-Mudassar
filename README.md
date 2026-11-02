@@ -24,7 +24,7 @@ Now I want to move from personal projects to a real team. I'm looking for an int
 - **Security basics done properly:** JWT with refresh tokens, httpOnly cookies, password hashing, protected routes
 - **Clean, reliable APIs:** input validation, centralized error handling, rate limiting, and Postman-tested endpoints
 - **Team workflow:** Git branches and pull requests, plus clear READMEs and API documentation
-- **Fast learner:** I'm now learning PostgreSQL and built a full-stack Team Task Manager with it in a 72-hour assessment
+- **Quick learner:** I'm now learning PostgreSQL and built a full-stack Team Task Manager.
 
 **Open to:** MERN / Full Stack / Backend internships (remote or on-site in Lahore)
 
